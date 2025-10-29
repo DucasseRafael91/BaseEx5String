@@ -57,6 +57,4 @@ public class BaseEx5String {
 	    }
 	    return reverse;
 	}
-
-
 }
